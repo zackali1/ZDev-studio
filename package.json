@@ -1,0 +1,12 @@
+{
+  "name": "web-dev-landing",
+  "version": "1.0.0",
+  "description": "Web Development Services Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
